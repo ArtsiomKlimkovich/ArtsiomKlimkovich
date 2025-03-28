@@ -20,9 +20,3 @@
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="Amazon S3"> 
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" title="Git">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" title="Docker">
-
----
-
-### 🏆 Code Practice
-[![LeetCode](https://leetcode-badge-sage.vercel.app/badge/OlAd46kA?theme=light)](https://leetcode.com/OlAd46kA)  
-<a href="https://www.codewars.com/users/Olad46ka"><img src="https://www.codewars.com/users/Olad46ka/badges/large"></a>
