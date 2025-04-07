@@ -13,7 +13,7 @@
 **Databases**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"> 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" title="PostgreSQL"> 
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" title="Redis"> 
+<img src="https://icon.icepanel.io/Technology/svg/Redis.svg" width="40" title="Redis"> 
 <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" title="Cassandra">
 
 **Cloud & Tools**  
